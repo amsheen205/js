@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(126, 255, 245);
+}
+
+h2 {
+
+        background-color: #e604f9db;
+        color: #2c12e3f2;
+        font-size: 40px;
+        width:500px
+    
+}
+
+h1 {
+    
+        color: white;
+        background-color: black;
+        width: 70%;
+        font-size: 26px;
+    
+}
+
+p {
+	background-color: #5e12f4;
+	color: #d8e2ec;
+	font-size: 26px;
+	width: 61%;
+}
